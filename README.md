@@ -104,3 +104,7 @@ A platform for managing projects and tasks.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ikerhurcab&color=blueviolet" alt="Profile Views" />
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
