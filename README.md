@@ -90,9 +90,10 @@ A platform for managing projects and tasks.
 
 ## 🌐 Languages
 
-- Spanish (Native)
-- Catalan (Native)
-- English (Professional)
+- 🇪🇸 Spanish (Native)
+- 🇨🇦 Catalan (Native)
+- 🇬🇧 English (Professional)
+- 🇧🇷 Portuguese (Basic – A2, self-assessed using CEFR scale)
 
 ## 📫 How to reach me
 
