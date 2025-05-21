@@ -90,10 +90,10 @@ A platform for managing projects and tasks.
 
 ## 🌐 Languages
 
-- 🇪🇸 Spanish (Native)
-- 🇨🇦 Catalan (Native)
-- 🇬🇧 English (Professional)
-- 🇧🇷 Portuguese (Basic – A2, self-assessed using CEFR scale)
+- ![ES](https://flagcdn.com/w20/es.png) Spanish (Native)  
+- ![CA](https://flagcdn.com/w20/es.png) Catalan (Native)  
+- ![GB](https://flagcdn.com/w20/gb.png) English (Professional)  
+- ![BR](https://flagcdn.com/w20/br.png) Portuguese (Basic – A2, self-assessed using CEFR scale)
 
 ## 📫 How to reach me
 
