@@ -85,6 +85,9 @@ A platform for managing projects and tasks.
 - **Monlau Formación Profesional** (2023-2025)  
   - Web Development  
 
+- **Escola Gravi SCCL** (2021-2023)  
+  - Science and Technology Baccalaureate. Final grade average: 8.0 / 10
+
 **Certifications:**  
 - Linux Professional Institute (LPI) - Linux Administration  
 - Microsoft - Windows 10 Administration  
