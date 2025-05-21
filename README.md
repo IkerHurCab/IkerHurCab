@@ -55,6 +55,7 @@ I'm a Full Stack Developer based in Barcelona, Spain, currently studying at Monl
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-FF6600?style=for-the-badge&logo=karma&logoColor=white)
 
 </div>
 
