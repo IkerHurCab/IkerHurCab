@@ -6,7 +6,7 @@
 
 > Full Stack Developer passionate about creating efficient, scalable, and user-friendly web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikerhurtadocaballo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iker-hurtado-caballo/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkerHurCab)
 
 ## 👨‍💻 About Me
@@ -96,7 +96,7 @@ A platform for managing projects and tasks.
 
 ## 📫 How to reach me
 
-- LinkedIn: [Iker Hurtado Caballo](https://www.linkedin.com/in/ikerhurtadocaballo/)
+- LinkedIn: [Iker Hurtado Caballo](https://www.linkedin.com/in/iker-hurtado-caballo/)
 - Email: [your-email@example.com]
 
 ---
