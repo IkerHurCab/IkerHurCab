@@ -87,7 +87,7 @@ A platform for managing projects and tasks.
 
 - **Escola Gravi SCCL** (2021-2023)  
   - Science and Technology Baccalaureate. 
-    Final grade average: 8.0 / 10
+  - Final grade average: 8.0 / 10
 
 **Certifications:**  
 - Linux Professional Institute (LPI) - Linux Administration  
