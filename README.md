@@ -13,8 +13,8 @@
 
 I'm a Full Stack Developer based in Barcelona, Spain, currently studying at Monlau Formación Profesional. I'm passionate about web development and technology, always looking to learn and grow in this ever-evolving field.
 
-- 🔭 I'm currently working on **[Alumni](https://github.com/MonlauAlumni/produccion)** - A platform for students and alumni networking  
-- 🌱 I'm currently learning advanced **Laravel** and **React** techniques  
+- 🔭 Currently working on **[Alumni](https://alumni.alumnes-monlau.com)** - A platform for students and networking  
+- 🌱 I'm currently learning advanced **Laravel** and **Vue** techniques  
 - 💼 I've completed an internship at **Avannubo** as a Web Developer  
 - 🚀 I'm open to new opportunities that allow me to apply and expand my skills  
 
