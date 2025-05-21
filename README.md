@@ -97,7 +97,7 @@ A platform for managing projects and tasks.
 ## 📫 How to reach me
 
 - LinkedIn: [Iker Hurtado Caballo](https://www.linkedin.com/in/iker-hurtado-caballo/)
-- Email: [your-email@example.com]
+- Email: [ikerhurtadocaballo@gmail.com]
 
 ---
 
