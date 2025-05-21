@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IkerHurCab/IkerHurCab/main/assets/header-banner.png" alt="Iker Hurtado - Full Stack Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/IkerHurCab/IkerHurCab/main/assets/banner.gif" alt="Iker Hurtado - Full Stack Developer" width="100%"/>
 </div>
 
 # Hello, I'm Iker Hurtado 👋
