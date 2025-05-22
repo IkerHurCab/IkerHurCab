@@ -64,13 +64,13 @@ I'm a Full Stack Developer based in Barcelona, Spain, currently studying at Monl
 ### [Alumni](https://github.com/MonlauAlumni/produccion)  
 A platform for students and alumni of Monlau for networking and finding job opportunities.  
 - **Tech Stack:** PHP, Laravel, Tailwind CSS, MySQL, JavaScript  
-- **Role:** Lead Developer  
+- **Role:** Co-Lead Developer
 - **Status:** In Development  
 
 ### [Project Management](https://github.com/IkerHurCab/project-management)  
 A platform for managing projects and tasks.  
 - **Tech Stack:** Laravel, Inertia.js, Vue.js, PostgreSQL  
-- **Role:** Developer  
+- **Role:** Co-Lead Developer
 - **Status:** Completed  
 
 ## 📊 GitHub Stats
