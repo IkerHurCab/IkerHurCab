@@ -79,7 +79,7 @@ A platform for managing projects and tasks.
 
 ## 🎓 Education & Certifications
 
-- **Monlau Formación Profesional** (2025-current)  
+- **University of Barcelona** (2025-current)  
   - Computer science
 
 - **Monlau Formación Profesional** (2023-2025)  
