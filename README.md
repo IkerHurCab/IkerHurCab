@@ -11,9 +11,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer based in Barcelona, Spain, currently studying at Monlau Formación Profesional. I'm passionate about web development and technology, always looking to learn and grow in this ever-evolving field.
+I'm a Full Stack Developer based in Barcelona, Spain, currently working at Monlau Formación Profesional. I'm passionate about web development and technology, always looking to learn and grow in this ever-evolving field.
 
-- 🔭 Currently working on **[Alumni](https://alumni.alumnes-monlau.com)** - A platform for students and networking  
 - 🌱 I'm currently learning advanced **Laravel** and **Vue** techniques  
 - 💼 I've completed an internship at **Avannubo** as a Web Developer  
 - 🚀 I'm open to new opportunities that allow me to apply and expand my skills  
@@ -80,9 +79,13 @@ A platform for managing projects and tasks.
 
 ## 🎓 Education & Certifications
 
-- **Monlau Formación Profesional** (2023-2025)  
-  - Web Development  
+- **Monlau Formación Profesional** (2025-current)  
+  - Computer science
 
+- **Monlau Formación Profesional** (2023-2025)  
+  - Web Development
+  - Final grade average: 9.8 / 10
+  
 - **Escola Gravi SCCL** (2021-2023)  
   - Science and Technology Baccalaureate. 
   - Final grade average: 8.0 / 10
@@ -96,7 +99,6 @@ A platform for managing projects and tasks.
 - ![ES](https://flagcdn.com/w20/es.png) Spanish (Native)  
 - ![CA](https://flagcdn.com/w20/es.png) Catalan (Native)  
 - ![GB](https://flagcdn.com/w20/gb.png) English (Professional)  
-- ![POR](https://flagcdn.com/w20/pt.png) Portuguese (Basic – A2, self-assessed using CEFR scale)
 
 ## 📫 How to reach me
 
