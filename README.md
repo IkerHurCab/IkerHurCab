@@ -1,116 +1,228 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IkerHurCab/IkerHurCab/main/assets/banner.gif" alt="Iker Hurtado - Full Stack Developer" width="100%"/>
-</div>
-
+```markdown
 # Hello, I'm Iker Hurtado 👋
 
-> Full Stack Developer passionate about creating efficient, scalable, and user-friendly web applications.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iker-hurtado-caballo/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkerHurCab)
-
-## 👨‍💻 About Me
-
-I'm a Full Stack Developer based in Barcelona, Spain, currently working at Monlau Formación Profesional. I'm passionate about web development and technology, always looking to learn and grow in this ever-evolving field.
-
-- 🌱 I'm currently learning advanced **Laravel** and **Vue** techniques  
-- 💼 I've completed an internship at **Avannubo** as a Web Developer  
-- 🚀 I'm open to new opportunities that allow me to apply and expand my skills  
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### Database  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### DevOps & Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
-![Karma](https://img.shields.io/badge/Karma-FF6600?style=for-the-badge&logo=karma&logoColor=white)
-
-</div>
-
-## 🚀 Projects
-
-### [Alumni](https://github.com/MonlauAlumni/produccion)  
-A platform for students and alumni of Monlau for networking and finding job opportunities.  
-- **Tech Stack:** PHP, Laravel, Tailwind CSS, MySQL, JavaScript  
-- **Role:** Co-Lead Developer
-- **Status:** In Development  
-
-### [Project Management](https://github.com/IkerHurCab/project-management)  
-A platform for managing projects and tasks.  
-- **Tech Stack:** Laravel, Inertia.js, Vue.js, PostgreSQL  
-- **Role:** Co-Lead Developer
-- **Status:** Completed  
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikerhurcab&show_icons=true&theme=tokyonight" alt="Iker's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikerhurcab&theme=tokyonight" alt="Iker's GitHub Streak" />
-</div>
-
-## 🎓 Education & Certifications
-
-- **University of Barcelona** (2025-current)  
-  - Computer science
-
-- **Monlau Formación Profesional** (2023-2025)  
-  - Web Development
-  - Final grade average: 9.8 / 10
-  
-- **Escola Gravi SCCL** (2021-2023)  
-  - Science and Technology Baccalaureate. 
-  - Final grade average: 8.0 / 10
-
-**Certifications:**  
-- Linux Professional Institute (LPI) - Linux Administration  
-- Microsoft - Windows 10 Administration  
-
-## 🌐 Languages
-
-- ![ES](https://flagcdn.com/w20/es.png) Spanish (Native)  
-- ![CA](https://flagcdn.com/w20/es.png) Catalan (Native)  
-- ![GB](https://flagcdn.com/w20/gb.png) English (Professional)  
-
-## 📫 How to reach me
-
-- LinkedIn: [Iker Hurtado Caballo](https://www.linkedin.com/in/iker-hurtado-caballo/)
-- Email: ikerhurtadocaballo@gmail.com
+> Software Engineer focused on building scalable business applications with Laravel, React and PostgreSQL.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikerhurcab&color=blueviolet" alt="Profile Views" />
-</div>
+## 👨‍💻 About Me
+
+I'm a Software Engineer based in Barcelona, Spain, currently working at **Monlau Formación Profesional**, where I design and develop enterprise web applications used in educational environments.
+
+Alongside my professional work, I'm studying **Computer Science & Mathematics** at the **University of Barcelona**.
+
+My main interests are software architecture, backend engineering, Domain-Driven Design, and building maintainable systems that can scale over time.
+
+- 💼 Software Engineer at **Monlau Formación Profesional**
+- 🎓 Computer Science & Mathematics student at the University of Barcelona
+- 🏗️ Passionate about Software Architecture, DDD and Backend Engineering
+- 🚀 Building developer tools and SaaS products
+- 🌱 Continuously learning about distributed systems, DevOps and high-performance web applications
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,ts,java,python" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,vite" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+</p>
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,postman,vscode" />
+</p>
+
+---
+
+# 🏗️ Engineering Interests
+
+- Domain-Driven Design (DDD)
+- Modular Architecture
+- SOLID Principles
+- Clean Architecture
+- REST APIs
+- Event-driven Systems
+- Background Jobs & Queues
+- Authentication & Security
+- SaaS Platforms
+- Developer Tooling
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Alumni Platform
+
+Enterprise platform for students and alumni of Monlau to connect, collaborate and discover professional opportunities.
+
+**Role**
+
+Co-Lead Software Engineer
+
+**Highlights**
+
+- Modular Laravel architecture
+- Authentication & authorization
+- Educational workflows
+- Responsive UI
+- Production environment
+
+**Stack**
+
+Laravel • PostgreSQL • Tailwind CSS • JavaScript
+
+---
+
+## 📋 Project Management
+
+Modern project and task management platform built using Laravel and Vue.
+
+**Highlights**
+
+- Team management
+- Task organization
+- Authentication
+- Modern SPA architecture
+
+**Stack**
+
+Laravel • Vue • Inertia.js • PostgreSQL
+
+---
+
+## 🛠️ Laravel App Manager *(Work in Progress)*
+
+A self-hosted platform for creating, deploying and managing multiple Laravel applications from a single dashboard.
+
+Planned features:
+
+- Multi-tenant
+- Docker deployment
+- GitHub integration
+- Automatic SSL
+- Environment management
+- Centralized logs
+- Queue monitoring
+- One-click deployments
+
+---
+
+# 💼 Current Work
+
+At **Monlau Formación Profesional**, I contribute to the development of enterprise educational software.
+
+Some of the technologies and concepts I work with daily include:
+
+- Domain-Driven Design (DDD)
+- Laravel 13
+- React 19
+- Inertia.js
+- PostgreSQL
+- Microsoft OAuth (Azure AD)
+- Two-Factor Authentication (TOTP)
+- ERP integrations
+- Background jobs & queues
+- PDF generation
+- Multi-language applications
+- Automated testing
+- GitHub-based development workflows
+
+---
+
+# 📚 Education
+
+### University of Barcelona
+
+**B.Sc. Computer Science & Mathematics**
+
+2025 – Present
+
+---
+
+### Monlau Formación Profesional
+
+**Higher Technician in Web Application Development**
+
+Graduated with honours
+
+**Final Grade:** 9.8 / 10
+
+---
+
+### Escola Gravi SCCL
+
+**Science & Technology Baccalaureate**
+
+Final Grade: 8.0 / 10
+
+---
+
+# 📜 Certifications
+
+- Linux Professional Institute (LPI) – Linux Administration
+- Microsoft – Windows Administration
+
+---
+
+# 🌍 Languages
+
+- 🇪🇸 Spanish — Native
+- 🇬🇧 English — Professional
+- 🏴 Catalan — Native
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IkerHurCab&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkerHurCab&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=IkerHurCab&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 💡 Engineering Philosophy
+
+> I enjoy designing software that remains maintainable as it grows.
+>
+> I believe great software engineering is about solving real problems through clean architecture, thoughtful design and continuous improvement.
+>
+> I value maintainability, scalability and simplicity over unnecessary complexity.
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ikerhurtadocaballo
+- 📧 Email: ikerhurtadocaballo@gmail.com
+```
