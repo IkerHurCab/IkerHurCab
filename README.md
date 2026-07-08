@@ -1,11 +1,10 @@
-```markdown
 # Hello, I'm Iker Hurtado 👋
 
 > Software Engineer focused on building scalable business applications with Laravel, React and PostgreSQL.
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 I'm a Software Engineer based in Barcelona, Spain, currently working at **Monlau Formación Profesional**, where I design and develop enterprise web applications used in educational environments.
 
@@ -225,4 +224,3 @@ Final Grade: 8.0 / 10
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ikerhurtadocaballo
 - 📧 Email: ikerhurtadocaballo@gmail.com
-```
